@@ -1,0 +1,45 @@
+.image{
+    margin-left: 15%;
+    position: relative;
+}
+.eyel{
+    top: 223px;
+    left: 548px;
+    position: absolute;
+    width: 110px;
+    border: 3px solid black;
+    height: 90px;
+    border-radius: 100%;
+    background-color: white;
+    overflow: hidden;
+}
+.pupill{
+    top: 40px;
+    left: 80px;
+    position: absolute;
+    width: 10px;
+    border: 3px solid black;
+    height: 10px;
+    border-radius: 100%;
+    background-color: rgb(7, 6, 6);
+}
+.pupilr{
+    top: 40px;
+    left: 80px;
+    position: absolute;
+    width: 10px;
+    border: 3px solid black;
+    height: 10px;
+    border-radius: 100%;
+    background-color: rgb(7, 6, 6);
+}
+.eyer{
+    top: 226px;
+    left: 734px;
+    position: absolute;
+    width: 110px;
+    border: 3px solid black;
+    height: 90px;
+    border-radius: 100%;
+    background-color: white;
+}
